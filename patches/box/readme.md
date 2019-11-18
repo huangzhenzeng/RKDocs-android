@@ -6,3 +6,4 @@
        2.支持导航栏power button功能；
        3.显示截图按钮等。
 
+2.rootservice_for_android10.rar -------------root功能补丁；
